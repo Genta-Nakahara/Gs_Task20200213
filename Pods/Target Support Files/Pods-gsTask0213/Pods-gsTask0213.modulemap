@@ -1,0 +1,6 @@
+framework module Pods_gsTask0213 {
+  umbrella header "Pods-gsTask0213-umbrella.h"
+
+  export *
+  module * { export * }
+}
